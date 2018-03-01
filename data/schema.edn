@@ -1,0 +1,16 @@
+{:_id "person"
+ :req [{:key
+        :value
+        :type}
+       {:key
+        :value
+        :type}]
+ :opt [{:key
+        :value
+        :type}
+       {:key
+        :value
+        :type}
+       {:key
+        :value
+        :type}]}
